@@ -6,6 +6,8 @@ refine Hackathon 2023 is just around the corner and this repository serves as yo
 
 From rules and guidelines, it provides all the information necessary for successful GitHub submissions.
 
+[Refer to Hackathon January 2023 blog for information](https://refine.dev/blog/refine-hackathon/)
+
 [To submit your project navigate to this discussion thread](https://github.com/refinedev/refine/discussions/3363)
 
 
@@ -43,12 +45,8 @@ Your submission gives the Refine team an opportunity to not only review it thoro
 ### Prerequisites
 
 If running your project requires any prerequisites, be sure to include them in this section.
+It can be an account in any service or any configuration or plugins.
 
-Examples of Prerequisites:
-
-- Medusa Server (Link to Quickstart here).
-- Create an account in service X (for integrations with other services).
-- Any configuration or plugins
 
 ### Install Project
 
@@ -61,7 +59,6 @@ For example:
 - Clone the repository:
 ```
 git clone <your repo github link>
-
 ```
 
 - Change directory and install dependencies:

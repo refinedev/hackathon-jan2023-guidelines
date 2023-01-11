@@ -4,11 +4,11 @@
 
 refine Hackathon 2023 is just around the corner and this repository serves as your go-to source for everything you need to know in order to submit a qualifying entry.  
 
-From rules and guidelines, it provides all the information necessary for successful GitHub submissions.
-
 [Refer to Hackathon January 2023 blog for information](https://refine.dev/blog/refine-hackathon/)
 
-[To submit your project navigate to this discussion thread](https://github.com/refinedev/refine/discussions/3363)
+[Use this form to submit your project](https://refinedev.typeform.com/hackathon)
+
+From rules and guidelines, it provides all the information necessary for successful GitHub submissions. Please prepare your repository README as shown below
 
 
 ## Project Name

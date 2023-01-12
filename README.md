@@ -1,6 +1,6 @@
 # refine Hackathon 2023 - README Guidelines
 
-<Cover Image>
+![cover-image](https://user-images.githubusercontent.com/1110414/212043699-c3277314-efb9-4187-bb88-07b0fe73784c.jpg)
 
 refine Hackathon 2023 is just around the corner and this repository serves as your go-to source for everything you need to know in order to submit a qualifying entry.  
 

@@ -1,12 +1,12 @@
 # refine Hackathon 2023 - README Guidelines
 
-![cover-image](https://user-images.githubusercontent.com/1110414/212043699-c3277314-efb9-4187-bb88-07b0fe73784c.jpg)
+![cover-image](https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-01-06-hackaton-january/social.png)
 
 refine Hackathon 2023 is just around the corner and this repository serves as your go-to source for everything you need to know in order to submit a qualifying entry.  
 
-[Refer to Hackathon January 2023 blog for information](https://refine.dev/blog/refine-hackathon/)
+[:point_right: Refer to Hackathon January 2023 blog for information.](https://refine.dev/blog/refine-hackathon/)
 
-[Use this form to submit your project](https://refinedev.typeform.com/hackathon)
+[:point_right: Use this form to submit your project.](https://refinedev.typeform.com/hackathon)
 
 From rules and guidelines, it provides all the information necessary for successful GitHub submissions. Please prepare your repository README as shown below
 
@@ -17,7 +17,7 @@ From rules and guidelines, it provides all the information necessary for success
 
 Provide your GitHub repository with a visually-appealing cover image for an immediate impression of your submission.
 
-You can use our template cover photos on Figma to create your own or you can use whatever you want.
+[:point_right: You can use our template cover photos on Figma to create your own or you can use whatever you want.](https://www.figma.com/community/file/1195374162080322036)
 
 ### Project Demo link
 

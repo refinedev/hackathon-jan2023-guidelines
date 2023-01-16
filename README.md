@@ -6,7 +6,7 @@ refine Hackathon 2023 is just around the corner and this repository serves as yo
 
 [:point_right: Refer to Hackathon January 2023 blog for information.](https://refine.dev/blog/refine-hackathon/)
 
-[:point_right: Submissions will be active on 23rd of January](https://refinedev.typeform.com/hackathon)
+:point_right: Submissions will be active on 23rd of January
 
 From rules and guidelines, it provides all the information necessary for successful GitHub submissions. Please prepare your repository README as shown below
 
